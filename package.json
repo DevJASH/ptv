@@ -2,7 +2,7 @@
   "name": "ptv",
   "version": "1.0.0",
   "description": "Official RESTful API for Pixels Tv.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
